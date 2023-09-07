@@ -123,9 +123,7 @@ for (let [key, { name, price, quantity }] of cart) {
 }
 ```
 
-#### JS Nuggets Video
 
-[Array.from](https://www.youtube.com/watch?v=zg1Bv4xubwo&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=11)
 
 #### Converting
 
